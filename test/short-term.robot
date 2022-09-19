@@ -11,7 +11,7 @@ First Hour
     Input Entry Date    05/04/2010    12:00    AM
     Input Leaving Date    05/04/2010    12:59    AM
     Calculated Cost Should Be    $ 2.00
-    Log    123
+    Log    123456
 
 One And An Additional Half Hour
     Input Entry Date    05/04/2010    12:00    AM
